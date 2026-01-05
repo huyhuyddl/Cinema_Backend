@@ -78,6 +78,8 @@ python app.py
 
 ![Login Success](screenshots/test_api_login.png)
 
+### Admin_only API
+
 ![Admin_only Success](screenshots/test_api_adminonly.png)
 
 ### Register API
