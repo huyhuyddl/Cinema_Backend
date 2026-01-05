@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Environment variables
+*.env
+cinema.env
+
+# Python
+*.pyc
+
+# VS Code
+.vscode/
