@@ -72,6 +72,26 @@ python app.py
 
 -Thực hiện CRUD cho các tài nguyên chính (phim, rạp, suất chiếu)
 
+## API Testing Screenshots
+
+### Login API
+
+![Login Success](screenshots/test_api_login.png)
+
+![Admin_only Success](screenshots/test_api_adminonly.png)
+
+### Register API
+
+![Register Success](screenshots/test_api_register.png)
+
+### Showtime API
+
+![Get Showtimes](screenshots/test_api_showtimes.png)
+
+### Seat API
+
+![Get Seats by Showtime](screenshots/test_api_seat.png)
+
 ### 👤 Author
 
 Huy Lê – Sinh viên năm 3, Khoa học máy tính
